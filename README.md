@@ -9,3 +9,6 @@ Note- Please ensure you have docker installed on your system. If not, visit http
    sudo docker build -t <myimagename> .
 3. Execute the app using the following command:
    sudo docker run -p <port>:80 <myimagename>
+
+
+Screencast video: https://www.youtube.com/watch?v=ctJDUxTiKYw&feature=youtu.be
