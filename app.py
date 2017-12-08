@@ -10,7 +10,7 @@ summaryData = myJsonData["summary"]
 laligaData = myJsonData["laliga"]
 copaData = myJsonData["copa del rey"]
 
-@app.route("/summary", methods=['GET'])
+@app.route("/", methods=['GET'])
 def get_sum():
 	sumList = []
 	for element in summaryData:
