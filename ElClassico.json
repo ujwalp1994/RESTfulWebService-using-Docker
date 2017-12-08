@@ -1,0 +1,33 @@
+{
+		"summary":[
+			{"Team":"Real Madrid", "Home Wins": "52", "Home Draws":"15", "Home Losses": "20"},
+			{"Team":"Barcelona", "Home Wins": "49", "Home Draws":"18", "Home Losses": "20"}
+		],
+		"laliga":[
+			{"Date":"10 Apr", "Year":2010, "HomeTeam":"Real Madrid", "AwayTeam":"Barcelona", "Score":"0-2"},
+			{"Date":"29 Nov", "Year":2010, "HomeTeam":"Barcelona", "AwayTeam":"Real Madrid", "Score":"5-0"},
+			{"Date":"16 April", "Year":2011, "HomeTeam":"Real Madrid", "AwayTeam":"Barcelona", "Score":"1-1"},
+			{"Date":"10 Dec", "Year":2011, "HomeTeam":"Real Madrid", "AwayTeam":"Barcelona", "Score":"1-3"},
+			{"Date":"21 Apr", "Year":2012, "HomeTeam":"Barcelona", "AwayTeam":"Real Madrid", "Score":"1-2"},
+			{"Date":"7 Oct", "Year":2012, "HomeTeam":"Barcelona", "AwayTeam":"Real Madrid", "Score":"2-2"},
+			{"Date":"2 Mar", "Year":2013, "HomeTeam":"Real Madrid", "AwayTeam":"Barcelona", "Score":"2-1"},
+			{"Date":"26 Oct", "Year":2013, "HomeTeam":"Barcelona", "AwayTeam":"Real Madrid", "Score":"2-1"},
+			{"Date":"23 Mar", "Year":2014, "HomeTeam":"Real Madrid", "AwayTeam":"Barcelona", "Score":"3-4"},
+			{"Date":"25 Oct", "Year":2014, "HomeTeam":"Real Madrid", "AwayTeam":"Barcelona", "Score":"3-1"},
+			{"Date":"22 Mar", "Year":2015, "HomeTeam":"Barcelona", "AwayTeam":"Real Madrid", "Score":"2-1"},
+			{"Date":"21 Nov", "Year":2015, "HomeTeam":"Real Madrid", "AwayTeam":"Barcelona", "Score":"0-4"},
+			{"Date":"3 April", "Year":2016, "HomeTeam":"Barcelona", "AwayTeam":"Real Madrid", "Score":"1-2"},
+			{"Date":"3 Dec", "Year":2016, "HomeTeam":"Barcelona", "AwayTeam":"Real Madrid", "Score":"1-1"},
+			{"Date":"23 April", "Year":2017, "HomeTeam":"Real Madird", "AwayTeam":"Barcelona", "Score":"2-3"}
+		],
+		"copa del rey":[
+			{"Year":2010, "Round":"Final", "HomeTeam":"Barcelona", "AwayTeam":"Real Madrid", "Score":"0-1"},
+			{"Year":2011, "Round":"Quarter Final- 1st leg", "HomeTeam":"Real Madird", "AwayTeam":"Barcelona", "Score":"1-2"},
+			{"Year":2011, "Round":"Quarter Final- 2nd Leg", "HomeTeam":"Barcelona", "AwayTeam":"Real Madrid", "Score":"2-2"},
+			{"Year":2012, "Round":"Semi Final 1st Leg", "HomeTeam":"Real Madrid", "AwayTeam":"Barcelona", "Score":"1-1"},
+			{"Year":2012, "Round":"Semi Final 2nd Leg", "HomeTeam":"Barcelona", "AwayTeam":"Real Madrid", "Score":"1-3"},
+			{"Year":2013, "Round":"Final", "HomeTeam":"Real Madrid", "AwayTeam":"Barcelona", "Score":"2-1"}
+		]
+	
+
+} 
